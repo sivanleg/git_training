@@ -6,4 +6,8 @@ You're Welcome!
 abcdefghijklmnopqrstuvwxyz
 =======
 I'm good. Thanks for asking!
+<<<<<<< HEAD
 >>>>>>> thanks alice
+=======
+coollll
+>>>>>>> hi
